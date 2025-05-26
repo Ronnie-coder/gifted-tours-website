@@ -1,56 +1,48 @@
 # 🌍 Gifted Tours - Official Website
 
-**Developed by [CodeRon](https:www.CodeRon.co.za | 🚀 *First Client Project*
+**Built with ❤️ by [CodeRon](https://www.CodeRon.co.za)**  
+🚀 *First Client Project | React + Vite*
 
 ---
 
-## 📌 Overview
+## 📌 Project Overview
 
-Gifted Tours is a travel and tourism company offering unforgettable experiences across South Africa. This website was custom-built to showcase their services, enable contact with potential clients, and establish a strong online presence.
+Gifted Tours is a South African travel and tourism agency providing unforgettable experiences for adventurers and explorers. This website was built to showcase their offerings and boost their online visibility with a fast, responsive, and modern design.
 
-This is CodeRon’s very first client project, marking the beginning of many future collaborations.
-
----
-
-## 🛠️ Tech Stack
-
-- **HTML5**
-- **CSS3**
-- **JavaScript**
-- (Add more if used: Bootstrap, Tailwind, jQuery, etc.)
+This marks **CodeRon’s** debut client project — the beginning of something legendary.
 
 ---
 
-## 🌐 Live Website
+## ⚙️ Tech Stack
 
-> 🔗 [Visit Gifted Tours Website](https://your-live-link.com)  
-*(Add this once deployed, or use Netlify/Vercel/GitHub Pages)*
-
----
-
-## 📸 Features
-
-- ✨ Clean, modern, and responsive design  
-- 📱 Mobile-friendly layout  
-- 📞 Integrated contact form  
-- 📷 Service gallery for tour experiences  
-- 🔗 WhatsApp contact and social media integration  
+- ⚛️ **React**
+- ⚡ **Vite**
+- 🛠️ **JavaScript (ES6+)**
+- 🎨 **CSS3** / Custom styles
+- 🌍 **Responsive Design**
 
 ---
 
-## 📁 Folder Structure
+## 🚀 Live Demo
+
+> 🌐 [View Live Site](https://your-live-link.com)  
+_(Add this once deployed — Netlify, Vercel, or GitHub Pages)_
+
+---
+
+## 📦 Installation & Setup
+
+Clone the repo and run it locally:
 
 ```bash
-gifted-tours-website/
-│
-├── index.html
-├── about.html
-├── services.html
-├── contact.html
-├── css/
-│   └── styles.css
-├── js/
-│   └── scripts.js
-└── assets/
-    ├── images/
-    └── icons/
+# Clone the repo
+git clone https://github.com/your-username/gifted-tours-website.git
+
+# Navigate into the project directory
+cd gifted-tours-website
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
